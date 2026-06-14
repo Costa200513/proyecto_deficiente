@@ -1,0 +1,67 @@
+/* estilos */
+
+body {
+  background: yellow;
+  font-family: Comic Sans MS;
+  margin: 20px;
+}
+
+#tope {
+  background: green;
+  color: yellow;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+h2 {
+  color: darkgreen;
+  background-color: lightgreen;
+  padding: 5px;
+}
+
+#info-gral {
+  border: 3px solid green;
+  padding: 15px;
+  margin: 10px 0;
+  background: white;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+input {
+  border: 1px solid gray;
+  padding: 4px;
+}
+
+button {
+  background: green;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+#res {
+  margin-top: 15px;
+  padding: 10px;
+  background: lightblue;
+  display: none;
+}
+
+#camp p {
+  background: #efe;
+  padding: 8px;
+  margin: 5px 0;
+  border-left: 4px solid green;
+}
+
+hr {
+  border-color: green;
+}
